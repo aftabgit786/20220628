@@ -1,0 +1,90 @@
+.redblue{
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   direction: rtl;
+}
+.d1{
+    background-color:greenyellow;
+    height: 350px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+    opacity: 0.6;
+    font-family: jameel noori nastaleeq;
+    height: 100%;
+}
+.d2{
+    background-color:rgb(194, 29, 29);
+    height: 350px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+    opacity: 0.6;
+    font-family: jameel noori nastaleeq;
+    height: 100%;
+    
+}
+.d3{
+    background-color:rgb(167, 11, 11);
+    height: 350px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+    opacity: 0.6;
+    font-family: jameel noori nastaleeq;
+    height: 100%;
+}
+.d4{
+    background-color:rgb(60, 82, 27);
+    height: 350px;
+    text-align: center;
+    direction: ltr;
+    margin-top: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+    opacity: 0.6;
+    margin-bottom: 50px;
+    font-family: jameel noori nastaleeq;
+    height: 100%;
+}
+.d5{
+    background-color:rgb(90, 36, 36);
+    height: 350px;
+    text-align: center;
+    direction: ltr;
+    margin-top: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+    opacity: 0.6;
+    margin-bottom: 50px;
+    font-family: jameel noori nastaleeq;
+    height: 100%;
+}
+.d6{
+    background-color:rgb(92, 92, 100);
+    height: 350px;
+    text-align: center;
+    direction: ltr;
+    margin-top: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+    opacity: 0.6;
+    margin-bottom: 50px;
+    font-family: jameel noori nastaleeq;
+    height: 100%;
+}
+.heading{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+
+
+}
+.p{color:white;(19, 187, 209);(35, 4, 212);}
+.b{color:black; font-size: 40px; width: 120px; height: 70px; border-radius: 20px; font-family: jameel noori nastaleeq;}
+.b:hover{color:red;}
+.b a{ text-decoration:none;}
